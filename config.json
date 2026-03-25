@@ -190,14 +190,14 @@
                 "Эксклюзивные маркеты",
                 "Бонусная система"
             ],
-            "referralLink": "СЮДА_ВСТАВЬТЕ_ВАШУ_ПАРТНЕРСКУЮ_ССЫЛКУ",
+            "referralLink": "https://www.wikipedia.org/",
             "color": "#0047AB",
             "sports": [
                 "football",
                 "hockey",
                 "esports"
             ],
-            "bonus": "Система бонусов",
+            "bonus": "До 8 000 ₽",
             "rating": "80%",
             "margin": "6.5%"
         }
